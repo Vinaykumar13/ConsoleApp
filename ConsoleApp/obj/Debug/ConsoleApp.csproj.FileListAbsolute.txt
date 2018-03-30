@@ -1,0 +1,12 @@
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\DotNet\PoC\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Console\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Console\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Console\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Console\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Console\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Console\ConsoleApp\obj\Debug\ConsoleApp.pdb
