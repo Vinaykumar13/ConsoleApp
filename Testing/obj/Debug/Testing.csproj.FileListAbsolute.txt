@@ -1,0 +1,11 @@
+D:\Console\Testing\bin\Debug\Testing.dll
+D:\Console\Testing\bin\Debug\Testing.pdb
+D:\Console\Testing\bin\Debug\ConsoleApp.exe
+D:\Console\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Console\Testing\bin\Debug\nunit.framework.dll
+D:\Console\Testing\bin\Debug\ConsoleApp.pdb
+D:\Console\Testing\bin\Debug\nunit.framework.xml
+D:\Console\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+D:\Console\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\Console\Testing\obj\Debug\Testing.dll
+D:\Console\Testing\obj\Debug\Testing.pdb
